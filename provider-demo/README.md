@@ -5,7 +5,9 @@
 In this demo we created two VPC, one is US region and another is in EU region.
 e.g.
 
-```resource "aws_vpc" "aws-eu-vpc" {
+```
+resource "aws_vpc" "aws-eu-vpc" {
   cidr_block = "10.10.88.0/22"
   provider = aws.aws-eu-region # Access provider using alias.
-}```
+}
+```
