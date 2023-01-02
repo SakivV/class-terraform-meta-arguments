@@ -4,6 +4,7 @@ Clone the repo as it is.
 1. Provider : Refer Folder ``` provider-demo ```
 2. Depends-On : Refer Folder ``` depends-on-demo ```
 3. Count : Refer Folder ``` count-demo ```
+4. For_each : Refer Folder ``` for-each-demo ```
 
 ### Common Step
 In each demo we have to create one file i.e. ```version.tf``` file.
